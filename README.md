@@ -1,6 +1,6 @@
 # MIRROR-NEW
 
-![MIRROR-NEW](pyditya.jpg)
+![MIRROR-NEW](Xcoders.jpg)
 
 **This Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
